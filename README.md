@@ -6,7 +6,7 @@ This my ^%*&^%*^&%
   - python semantics & syntax
 * [Myphotoshop](stanCode_Projects/MyPhotoshop)
   - image processing
-* [Pedestrian Removing Application](stanCode_Projects/Pedestrian Removing Application)
+* [Pedestrian Removing Application](https://github.com/fangyc220/Projects/tree/main/stanCode_Projects/Pedestrian%20Removing%20Application)
   - image processing
 * [Breakout Game](stanCode_Projects/break_out_game)
   - animation & game designing
