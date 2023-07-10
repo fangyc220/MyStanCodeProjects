@@ -2,7 +2,9 @@
 This my ^%*&^%*^&%
 
 ### Project Source Codes:
-* [MyPhotoshop]()
+* [Hangman Game]()
+  - python semantics & syntax
+* [Myphotoshop](stanCode_Projects/MyPhotoshop)
   - image processing
 * [Pedestrian Removing Application]()
   - image processing
@@ -12,3 +14,4 @@ This my ^%*&^%*^&%
   - data structure
 * [Boggle Game Solver]()
   - recursive functions
+  
